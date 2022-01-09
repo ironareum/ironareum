@@ -21,7 +21,6 @@ I'm Areum Kang, a growing developer. 🌱 <br>
 </p>
 
 
-
 <h3 align="center">📚 Languages and Framework 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-blueviolet"/>&nbsp
@@ -43,7 +42,7 @@ I'm Areum Kang, a growing developer. 🌱 <br>
   <img src="https://img.shields.io/badge/-Git-yellowgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-Docker-blue"/>&nbsp
 </p>
-<br>
+
 
 
 <!-- projects -->

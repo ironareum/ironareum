@@ -1,19 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=Iron%20Areum&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
-<h3 align="center">
-  
-  <!--  Top Stack  -->
-  <a href="https://github.com/ironareum"><img src="https://widget.realdeveloper.pro/api/top?stack=Java,JavaScript,Oracle"></a>
-  
-  <!--  Badge  -->
-  <!--   <a href="https://github.com/ironareum">
-    <img src="https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=Java,Spring,JavaScript,jQuery,HTML,Css,Vue.js,Python">
-  </a>
-  <a href="https://github.com/ironareum">
-    <img src="https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=Oracle,SVN,GitHub,SourceTree,Linux">
-  </a> -->
-</h3>
-
 
 
 <h3 align="center"> 👋 Hi there 👋 </h3>

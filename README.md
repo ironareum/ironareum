@@ -9,26 +9,51 @@ I'm Areum Kang, a growing developer. 🌱 <br>
 </p>
 
 
-<h3 align="center">📚 Languages and Framework 📚</h3>
+<h3 align="center">📚 Backend 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-blueviolet"/>&nbsp
-  <img src="https://img.shields.io/badge/-Spring-navy"/>&nbsp
-  <img src="https://img.shields.io/badge/-JavaScript-blueviolet"/>&nbsp
-  <img src="https://img.shields.io/badge/-jQuery-blueviolet"/>&nbsp
+  <img src="https://img.shields.io/badge/-Spring MVC-blueviolet"/>&nbsp
+  <img src="https://img.shields.io/badge/-Spring Boot-blueviolet"/>&nbsp
+  <img src="https://img.shields.io/badge/-Java Script-blueviolet"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-Vue.js-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-HTML-orange"/>&nbsp 
-  <img src="https://img.shields.io/badge/-CSS-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Python-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-Spring F/W-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-DevOn F/W-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-ProWorks5 F/W-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Junit4-blue"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-Eclipse-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-Visual Studio Code-black"/>&nbsp
+  <br>
 </p> 
 <br>
-<h3 align="center">📚 Database and DevOps 📚</h3>
+<h3 align="center">📚 DevOps 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Oracle(SQL)-brightgreen"/>&nbsp
+  <img src="https://img.shields.io/badge/-Oracle SQL-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-PL/SQL Developer-blue"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-Jira-brightgreen"/>&nbsp
+  <img src="https://img.shields.io/badge/-Confluence-brightgreen"/>&nbsp
+  <img src="https://img.shields.io/badge/-Git-brightgreen"/>&nbsp
+  <img src="https://img.shields.io/badge/-SVN-brightgreen"/>&nbsp
+  <img src="https://img.shields.io/badge/-Bamboo-brightgreen"/>&nbsp
+  <img src="https://img.shields.io/badge/-Meta-brightgreen"/>&nbsp
+  <img src="https://img.shields.io/badge/-EZJobs-brightgreen"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-Kibana-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-Jennifer-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-ControlM-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Linux-black"/>&nbsp
-  <img src="https://img.shields.io/badge/-SVN-yellowgreen"/>&nbsp
-  <img src="https://img.shields.io/badge/-Git-yellowgreen"/>&nbsp
-  <img src="https://img.shields.io/badge/-Docker-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Teams-yellowgreen"/>&nbsp
+  <br>
+</p>
+<br>
+<h3 align="center">📚 Frontend 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-ES6-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-Vue.js-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-WebSquare5-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-xFrame-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-Nexacro-black"/>&nbsp
 </p>
 
 
@@ -40,8 +65,9 @@ I'm Areum Kang, a growing developer. 🌱 <br>
 
 <h3 align="center">•••</h3>
 <p align="center">
-  <!--   <a href=""><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link="/></a>&nbsp
-    <a href=""><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Instagram&logoColor=white&link="/></a>&nbsp -->
+  <!--   <a href=""><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link="/></a>&nbsp -->
+    <a href="https://ironareum.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Instagram&logoColor=white&link="/></a>&nbsp 
+  
   <a href="mailto:areumkang87@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:areumkang87@gmail.com"/>    
   </a>

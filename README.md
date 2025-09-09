@@ -12,25 +12,28 @@ I'm Areum Kang, a growing developer. 🌱 <br>
 <h3 align="center">📚 Backend 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-blueviolet"/>&nbsp
-  <img src="https://img.shields.io/badge/-Spring MVC-blueviolet"/>&nbsp
-  <img src="https://img.shields.io/badge/-Spring Boot-blueviolet"/>&nbsp
   <img src="https://img.shields.io/badge/-Java Script-blueviolet"/>&nbsp
+  <img src="https://img.shields.io/badge/-Oracle SQL-blue"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Spring F/W-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-DevOn F/W-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-ProWorks5 F/W-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Junit4-blue"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Eclipse-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Visual Studio Code-black"/>&nbsp
-  <br>
 </p> 
+<br>
+<h3 align="center">📚 Frontend 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-ES6-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-Vue.js-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-WebSquare5-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-xFrame-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-Nexacro-black"/>&nbsp
+</p>
 <br>
 <h3 align="center">📚 DevOps 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Oracle SQL-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-PL/SQL Developer-blue"/>&nbsp
-  <br>
   <img src="https://img.shields.io/badge/-Jira-brightgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-Confluence-brightgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-brightgreen"/>&nbsp
@@ -46,15 +49,7 @@ I'm Areum Kang, a growing developer. 🌱 <br>
   <img src="https://img.shields.io/badge/-Teams-yellowgreen"/>&nbsp
   <br>
 </p>
-<br>
-<h3 align="center">📚 Frontend 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-ES6-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Vue.js-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-WebSquare5-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-xFrame-black"/>&nbsp
-  <img src="https://img.shields.io/badge/-Nexacro-black"/>&nbsp
-</p>
+
 
 
 
@@ -73,9 +68,6 @@ I'm Areum Kang, a growing developer. 🌱 <br>
   </a>
 </p>
 
-
-
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
 
 
 <!--

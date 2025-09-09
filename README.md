@@ -11,23 +11,26 @@ I'm Areum Kang, a growing developer. 🌱 <br>
 
 <h3 align="center">📚 Backend 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-blueviolet"/>&nbsp
-  <img src="https://img.shields.io/badge/-Java Script-blueviolet"/>&nbsp
+  <img src="https://img.shields.io/badge/-Java-blueviolet"/>&nbsp  
+  <img src="https://img.shields.io/badge/-Python-blueviolet"/>&nbsp 
   <img src="https://img.shields.io/badge/-Oracle SQL-blue"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-Spring F/W-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-DevOn F/W-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Junit4-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Spring F/W-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-DevOn F/W-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-Junit4-black"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Eclipse-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Visual Studio Code-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-Pycharm-black"/>&nbsp
 </p> 
 <br>
 <h3 align="center">📚 Frontend 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-ES6-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-Java Script(ES6)-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-Vue.js-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-WebSquare5-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-HTML-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-CSS-orange"/>&nbsp
+  <br>
   <img src="https://img.shields.io/badge/-xFrame-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Nexacro-black"/>&nbsp
 </p>
